@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LotoAdvanced Engineering",
+  "description": "Sistema de engenharia combinatória e análise descritiva para balanceamento estrutural de jogos da Lotofácil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
